@@ -1,0 +1,12 @@
+# Meetings output (per-session artifacts)
+meetings/
+
+# Skill temp research data
+skills/meeting/temp-research/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
